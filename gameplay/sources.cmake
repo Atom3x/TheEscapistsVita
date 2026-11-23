@@ -1,0 +1,130 @@
+# Editable source lists. No conversion step runs during the build.
+
+set(FRAMESRCS
+    frame1_1.cpp
+    frame2_1.cpp
+    frame3_1.cpp
+    frame4_1.cpp
+    frame5_1.cpp
+    frame6_1.cpp
+    frame7_1.cpp
+    frame8_1.cpp
+    frame9_1.cpp
+    frame10_1.cpp
+    frame11_1.cpp
+    frame12_1.cpp
+)
+
+set(EVENTSRCS
+    events_1.cpp
+    events_2.cpp
+    events_3.cpp
+    events_4.cpp
+    events_5.cpp
+    events_6.cpp
+    events_7.cpp
+    events_8.cpp
+    events_9.cpp
+    events_10.cpp
+    events_11.cpp
+    events_12.cpp
+    events_13.cpp
+    events_14.cpp
+    events_15.cpp
+    events_16.cpp
+    events_17.cpp
+    events_18.cpp
+    events_19.cpp
+    events_20.cpp
+    events_21.cpp
+    events_22.cpp
+    events_23.cpp
+    events_24.cpp
+    events_25.cpp
+    events_26.cpp
+    events_27.cpp
+    events_28.cpp
+    events_29.cpp
+    events_30.cpp
+    events_31.cpp
+    events_32.cpp
+    events_33.cpp
+    events_34.cpp
+    events_35.cpp
+    events_36.cpp
+    events_37.cpp
+    events_38.cpp
+    events_39.cpp
+    events_40.cpp
+    events_41.cpp
+    events_42.cpp
+    events_43.cpp
+    events_44.cpp
+    events_45.cpp
+    events_46.cpp
+    events_47.cpp
+    events_48.cpp
+    events_49.cpp
+    events_50.cpp
+    events_51.cpp
+    events_52.cpp
+    events_53.cpp
+    events_54.cpp
+    events_55.cpp
+    events_56.cpp
+    events_57.cpp
+    events_58.cpp
+    events_59.cpp
+    events_60.cpp
+    events_61.cpp
+    events_62.cpp
+    events_63.cpp
+    events_64.cpp
+    events_65.cpp
+    events_66.cpp
+    events_67.cpp
+    events_68.cpp
+    events_69.cpp
+    events_70.cpp
+    events_71.cpp
+    events_72.cpp
+)
+
+set(OBJECTSRCS
+    objects1.cpp
+    objects2.cpp
+    objects3.cpp
+    objects4.cpp
+    objects5.cpp
+    objects6.cpp
+    objects7.cpp
+    objects8.cpp
+)
+
+set(EXTSRCS
+    ${CHOWDREN_BASE_DIR}/objects/active.cpp
+    ${CHOWDREN_BASE_DIR}/objects/advdir.cpp
+    ${CHOWDREN_BASE_DIR}/objects/arrayext.cpp
+    ${CHOWDREN_BASE_DIR}/objects/assarray.cpp
+    ${CHOWDREN_BASE_DIR}/objects/backdrop.cpp
+    ${CHOWDREN_BASE_DIR}/objects/blowfishext.cpp
+    ${CHOWDREN_BASE_DIR}/objects/calcrect.cpp
+    ${CHOWDREN_BASE_DIR}/objects/counter.cpp
+    ${CHOWDREN_BASE_DIR}/objects/editext.cpp
+    ${CHOWDREN_BASE_DIR}/objects/http.cpp
+    ${CHOWDREN_BASE_DIR}/objects/ini.cpp
+    ${CHOWDREN_BASE_DIR}/objects/layerext.cpp
+    ${CHOWDREN_BASE_DIR}/objects/listext.cpp
+    ${CHOWDREN_BASE_DIR}/objects/moveit.cpp
+    ${CHOWDREN_BASE_DIR}/objects/pathplanner.cpp
+    ${CHOWDREN_BASE_DIR}/objects/picture.cpp
+    ${CHOWDREN_BASE_DIR}/objects/quickbackdrop.cpp
+    ${CHOWDREN_BASE_DIR}/objects/steamext.cpp
+    ${CHOWDREN_BASE_DIR}/objects/stringparser.cpp
+    ${CHOWDREN_BASE_DIR}/objects/stringreplace.cpp
+    ${CHOWDREN_BASE_DIR}/objects/stringtokenizer.cpp
+    ${CHOWDREN_BASE_DIR}/objects/systembox.cpp
+    ${CHOWDREN_BASE_DIR}/objects/text.cpp
+    ${CHOWDREN_BASE_DIR}/objects/textblitter.cpp
+    ${CHOWDREN_BASE_DIR}/objects/windowcontrol.cpp
+)

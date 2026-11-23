@@ -1,0 +1,30 @@
+#ifndef CHOWDREN_EXTENSIONS_H
+#define CHOWDREN_EXTENSIONS_H
+
+#include "objects/counter.h"
+#include "objects/systembox.h"
+#include "objects/listext.h"
+#include "objects/quickbackdrop.h"
+#include "objects/stringtokenizer.h"
+#include "objects/picture.h"
+#include "objects/pathplanner.h"
+#include "objects/active.h"
+#include "objects/calcrect.h"
+#include "objects/windowcontrol.h"
+#include "objects/http.h"
+#include "objects/steamext.h"
+#include "objects/moveit.h"
+#include "objects/text.h"
+#include "objects/backdrop.h"
+#include "objects/layerext.h"
+#include "objects/ini.h"
+#include "objects/blowfishext.h"
+#include "objects/arrayext.h"
+#include "objects/textblitter.h"
+#include "objects/assarray.h"
+#include "objects/editext.h"
+#include "objects/stringparser.h"
+#include "objects/advdir.h"
+#include "objects/stringreplace.h"
+
+#endif // CHOWDREN_EXTENSIONS_H
